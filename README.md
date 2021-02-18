@@ -1,8 +1,8 @@
 # App-Profile-Recommendation
-##Data Analysis Project
+### Data Analysis Project
 
 
-##Profitable App Profiles For The App Store and Google Play Markets.
+## Profitable App Profiles For The App Store and Google Play Markets.
 
 My objective is to find the mobile app profiles that are profitable for the App Store and Google Play Markets. I am working as a data analyst for a company that builds Android and iOS mobile apps and my task is to enable our team of developers to make decisions on what apps to develop the types of apps that are likely to attract more users.
 
