@@ -11,5 +11,7 @@ The company's main source of revenue is the in-apps ads hence the revenue is mos
 ## How to use
 
 Install Jupyter Notebook
+
 Clone the project
+
 open on Jupyter Notebook
